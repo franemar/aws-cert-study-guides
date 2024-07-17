@@ -2,7 +2,7 @@
 
 ___
 
-## Tabla de contenido
+## TOC --> Move
 
 - [Amazon Web Services (AWS)](#amazon-web-services-aws)
   - [Tabla de contenido](#tabla-de-contenido)
@@ -19,7 +19,6 @@ ___
   - [Networking](#networking)
     - [Subnets](#subnets)
       - [Network traffic in a VPC](#network-traffic-in-a-vpc)
-  - [Storage](#storage)
   - [Seguridad, identidad y conformidad](#seguridad-identidad-y-conformidad)
     - [Amazon Identity and Access Management (IAM)](#amazon-identity-and-access-management-iam)
     - [AWS Key Management Service (KMS)](#aws-key-management-service-kms)
@@ -61,6 +60,8 @@ ___
   - [Generales](#generales)
     - [Entrenamiento y certificaciones](#entrenamiento-y-certificaciones)
     - [Anexos](#anexos)
+
+### TOC --> Move
 
 ___
 
