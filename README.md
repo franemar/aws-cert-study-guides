@@ -6,7 +6,7 @@ This repo contains the study guides that I have used for previous AWS certificat
 
 **Notes:**
 
-1. At this moment, all the guides are out of date.  The guide that will be udpated soon is *SAA-C03*.
+1. At this moment, all the guides are out of date.  The guide that will be udpated soon is *DEA-C01*.
 2. My native language is not English, so if you find any misuse of the language, I appreciate it if you can send me an issue, so I can proceed to fix it.
 
 
@@ -22,4 +22,3 @@ This repo contains the study guides that I have used for previous AWS certificat
 ## How to Contribute
 
 If you would like to contribute, you can do it in the same way as any other project: with issues, with direct fixes, etc., but, if you are currently studying for an AWS certification and would like to reuse, collaborate or even add a new guide, you are totally welcome for that.  If this is your case, please create an issue and I will get back to you ASAP.
-
