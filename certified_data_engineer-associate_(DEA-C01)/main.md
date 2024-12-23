@@ -6,7 +6,7 @@
 
 S3 can virtually handle unlimited amounts of data, commonly referred to as *infinite scaling*. 
 
-- **Buckets**: are defined at the region level and their names must be globally unique.
+- **Buckets**: are defined at the region level and their names must be unique across all AWS accounts in all the AWS Regions within a *partition* (A *partition* is a grouping of Regions. AWS currently has three partitions: } `aws` (Standard Regions), `aws-cn` (China Regions), and `aws-us-gov` (AWS GovCloud (US))[^1]. It's recommended to create a *GUID: Globally Unique Identifier*.*
   - **Objects**: if a file larger that 5GB needs to be uploaded, then multi-part upload should be used for.
 
 ## AWS Streaming Data
@@ -29,3 +29,6 @@ S3 can virtually handle unlimited amounts of data, commonly referred to as *infi
 - [ ] Apache Flink Watermarks
 - [ ] Perfect Watermarks
 - [ ] Heuristic Watermarks and Allowed Lateness
+
+___
+[^1]: [Bucket naming rules](https://docs.aws.amazon.com/AmazonS3/latest/userguide/bucketnamingrules.html)
