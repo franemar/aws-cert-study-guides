@@ -12,6 +12,12 @@ S3 can virtually handle unlimited amounts of data, commonly referred to as *infi
 - S3 Lifecycle policies
 - S3 Glacier Flexible Retrieval storage class
 - S3 Glacier Deep Archive
+- S3 Intelligent-Tiering
+
+### Others
+
+Amazon Elastic File System (Amazon EFS, **Review**)
+: Is a scalable file system used with AWS Cloud services and on-premises resources. As you add and remove files, Amazon EFS grows and shrinks automatically. It can scale on demand to petabytes without disrupting applications. Amazon EFS is a regional service. It stores data in and across multiple Availability Zones. Additionally, on-premises servers can access Amazon EFS using *AWS Direct Connect*.
 
 ## ETL/ELT
 
@@ -41,13 +47,16 @@ S3 can virtually handle unlimited amounts of data, commonly referred to as *infi
 ### Kinesis Data Streams
 
 - Parallelization factor
+- IteratorAge
+- Enhanced fan-out consumers.
 
 ## Databases
 
 ### Redshift
 
 - SUPER data type
-- Data Share
+- PartiQL
+- Data sharing
 - Amazon Redshift Serverless
 
 ## Machine Learning
@@ -55,6 +64,12 @@ S3 can virtually handle unlimited amounts of data, commonly referred to as *infi
 ### OpenSearch
 
 ### Macie
+
+## Orchestrators
+
+### Amazon SQS
+
+- Amazon SQS visibility timeout
 
 ## Containers
 

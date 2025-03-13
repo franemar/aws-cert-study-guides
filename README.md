@@ -2,7 +2,7 @@
 
 ## Description
 
-This repo contains the study guides that I have used for previous AWS certifications or those that I am currently using to pursue new AWS certifications.  The main goal of this repo would be to become the free and unoficial study guides for AWS Certifications, but there are a few Github repositories that try to achieve the same goal.  The reasons why I chose to start a new repository are several, but I could mention a few: 1) unlicensed repositories, 2) outdated study guides, 3) all the guide content published in the README, 4) my personal urgency, etc.
+This repo contains the study guides I have used for previous AWS certifications or those that I am currently using to pursue new AWS certifications.  The main goal of this repo would be to become the free and unoficial study guides for AWS Certifications, but there are a few Github repositories that try to achieve the same goal.  The reasons why I chose to start a new repository are several, but I could mention a few: 1) unlicensed repositories, 2) outdated study guides, 3) all the guide content published in the README, 4) my personal urgency, etc.
 
 **Notes:**
 
